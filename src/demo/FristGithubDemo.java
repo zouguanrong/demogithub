@@ -1,7 +1,7 @@
 package demo;
 
 /**
- * 第一次上传git项目
+ * 第一次上传git项目 test
  */
 public class FristGithubDemo {
 
